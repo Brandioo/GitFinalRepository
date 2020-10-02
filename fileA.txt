@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Ej phyta `Functionality A.
-=======
-Functionality in A.
->>>>>>> testing
+Alex has a cat and a fish.
