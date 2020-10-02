@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding functionality in B.
+=======
+Functionality B.
+>>>>>>> testing
