@@ -7,5 +7,10 @@ public class Example3 {
         sb.append(s1);
         sb.reverse();
         System.out.println(sb.toString());
+
+        String s2;
+        s2="Programmer";
+        String result=s2.substring(0,5);
+        System.out.println(result);
     }
 }
