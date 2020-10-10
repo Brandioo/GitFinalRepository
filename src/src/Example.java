@@ -13,6 +13,7 @@ public class Example {
             s2="Programmer";
             String result=s2.substring(0,5);
             System.out.println(result);
+            System.out.println(s2.length());
         }
     }
 
